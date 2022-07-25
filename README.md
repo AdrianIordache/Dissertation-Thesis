@@ -4,7 +4,9 @@ MSc thesis, June 2022.
 
 Coordinated by Associate Professor Bogdan Alexe.
 
-Evaluated and accepted by the committee formed by Radu Ionescu, Bogdan Alexe, and Marius Popescu. ***Graded: 10/10.***
+Evaluated and accepted by the committee formed by Radu Ionescu, Bogdan Alexe, and Marius Popescu. 
+
+***Graded: 10/10.***
 
 This MSc thesis was written in $\LaTeX{}$, with special thanks to Bogdan Alexe and Andrei Manolache for providing this template.
 
