@@ -10,6 +10,17 @@ Evaluated and accepted by the committee formed by Radu Ionescu, Bogdan Alexe, an
 
 This MSc thesis was written in $\LaTeX{}$, with special thanks to Bogdan Alexe and Andrei Manolache for providing this template.
 
+# Real-world application results
+
+***Raw input image***            |  ***Predicted objects in image***
+:-------------------------:|:-------------------------:
+![](https://github.com/AdrianIordache/Dissertation-Thesis/blob/master/images/original_146498167_frame_28.jpg)  |  ![](https://github.com/AdrianIordache/Dissertation-Thesis/blob/master/images/inference_146498167_frame_28.jpg)
+![](https://github.com/AdrianIordache/Dissertation-Thesis/blob/master/images/original_146515868_frame_54.jpg)  |  ![](https://github.com/AdrianIordache/Dissertation-Thesis/blob/master/images/inference_146515868_frame_54.jpg)
+![](https://github.com/AdrianIordache/Dissertation-Thesis/blob/master/images/original_146282044_frame_6.jpg)  |  ![](https://github.com/AdrianIordache/Dissertation-Thesis/blob/master/images/inference_146282044_frame_6.jpg)
+![](https://github.com/AdrianIordache/Dissertation-Thesis/blob/master/images/original_146393859_frame_44.jpg)  |  ![](https://github.com/AdrianIordache/Dissertation-Thesis/blob/master/images/inference_146393859_frame_44.jpg)
+
+***Results obtained based on a Qualcomm Snapdragon processor with an integrated machine learning hardware accelerator.***
+
 # Abstract
 
 This thesis aims to bring a solution that improves the domain of driver monitoring and assistance for video telematics on embedded devices. We propose a solution based on a single camera visual input for Safe Distance Warning systems and Lane Departure Warning systems based on multiple stacked deep neural networks for various tasks and a computer vision algorithm for detection interpolation using accumulative features masks.
