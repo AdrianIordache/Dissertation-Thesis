@@ -1,5 +1,7 @@
 # Driver Monitoring System for Outside World Context
 
+### Using multi-task stacked deep neural networks for embedded devices.
+
 MSc thesis, June 2022.
 
 Coordinated by Associate Professor Bogdan Alexe.
